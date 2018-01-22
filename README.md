@@ -7,6 +7,7 @@ Game made by Nabil Ridhwanshah
 3. Enjoy
 
 # Controls
-esc key = previous level
-w key = forward
-s key = backward
+1. esc key = previous level
+2. w key = forward
+3. s key = backward
+4. tab key = reset level
