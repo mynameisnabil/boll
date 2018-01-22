@@ -27,5 +27,10 @@ public class playerMovement : MonoBehaviour {
         {
             FindObjectOfType<GameManager>().previousLevel();
         }
+
+        if (Input.GetKey(KeyCode.Tab))
+        {
+            FindObjectOfType<GameManager>().resetLevel();
+        }
     }
 }
